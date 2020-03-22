@@ -1,0 +1,2 @@
+# OfflineOszi
+Scopy Extension
